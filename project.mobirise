@@ -2220,8 +2220,8 @@
             "codeEdit": true,
             "tinyEdit": false
           },
-          "_customHTML": "<pre class=\"html\"><code id=\"codenote-editor-281\" class=\"html hljs xml\" contenteditable=\"true\" style=\"width: inherit;\"><span class=\"hljs-tag\">&lt;<span class=\"hljs-name\">iframe</span> <span class=\"hljs-attr\">onload</span>=<span class=\"hljs-string\">\"javascript:parent.scrollTo(0,0);\"</span> <span class=\"hljs-attr\">height</span>=<span class=\"hljs-string\">\"691\"</span> <span class=\"hljs-attr\">allowtransparency</span>=<span class=\"hljs-string\">\"true\"</span> <span class=\"hljs-attr\">frameborder</span>=<span class=\"hljs-string\">\"0\"</span> <span class=\"hljs-attr\">scrolling</span>=<span class=\"hljs-string\">\"no\"</span> <span class=\"hljs-attr\">style</span>=<span class=\"hljs-string\">\"width:100%;border:none\"</span> <span class=\"hljs-attr\">src</span>=<span class=\"hljs-string\">\"https://form.tklapp.com/forms/v7/embed.php?id=43376\"</span> <span class=\"hljs-attr\">title</span>=<span class=\"hljs-string\">\"Sign Up\"</span>&gt;</span>Sign Up<span class=\"hljs-tag\">&lt;/<span class=\"hljs-name\">iframe</span>&gt;</span></code></pre>",
-          "_customCSS": "<pre class=\"css\"><code id=\"codecustomCSS\" class=\"css hljs\" contenteditable=\"true\" style=\"width: inherit;\"></code></pre>",
+          "_customHTML": "<iframe onload=\"javascript:parent.scrollTo(0,0);\" height=\"691\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"width:100%;border:none\" src=\"https://form.tklapp.com/forms/v7/view.php?id=43376\" title=\"Sign Up\">Sign Up</iframe>",
+          "_customCSS": "",
           "alias": "deltapicodeedit",
           "_tags": [
             "Extension"
