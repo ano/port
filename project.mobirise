@@ -2220,8 +2220,8 @@
             "codeEdit": false,
             "tinyEdit": false
           },
-          "_customHTML": "<iframe onload=\"javascript:parent.scrollTo(0,0);\" height=\"691\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"width:100%;border:none\" src=\"https://form.tklapp.com/forms/v7/view.php?id=43376\" title=\"Sign Up\">Sign Up</iframe>",
-          "_customCSS": "section#deltapicodeedit-17 {\nbackground-color: #0B4263;}",
+          "_customHTML": "<iframe onload=\"javascript:parent.scrollTo(0,0);\" height=\"766\" allowtransparency=\"true\" frameborder=\"0\" scrolling=\"no\" style=\"width:100%;border:none\" src=\"https://form.tklapp.com/forms/v7/view.php?id=43376\" title=\"Sign Up\">Sign Up</iframe>",
+          "_customCSS": "section#deltapicodeedit-17 {<br>background-color: #0B4263;}",
           "alias": "deltapicodeedit",
           "_tags": [
             "Extension"
